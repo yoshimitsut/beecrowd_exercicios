@@ -28,6 +28,3 @@ if (a > b && a > c) {
 } else {
     console.log(`${c} eh maior`);
 }
-
-
-//------em typeScript------
